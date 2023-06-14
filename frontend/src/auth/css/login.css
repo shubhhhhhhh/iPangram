@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.card{
+    /* margin: 10rem 0px 0px 20rem; */
+    display: flex;
+    margin: auto;
+}
+.login{
+    font-size: 30px;
+}
+.forgot{
+    margin: 20px 0px 0px 110px;
+}
+.br{
+    margin-top: 10px;
+    padding: 1px;
+    background-color: grey;
+}
+.signup{
+    margin: 10px 0px 0px 150px;
+}

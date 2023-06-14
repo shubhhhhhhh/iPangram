@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.login{
+    font-size: large;
+}
+.link_style{
+    text-decoration: none;
+}
+.tab{
+    padding: 10px;
+}
+.tab:active{
+    border: 1px gainsboro;
+}

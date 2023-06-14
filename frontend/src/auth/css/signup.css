@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+.card{
+    margin: 100px 0px 0px 500px;
+}
+.login{
+    font-size: 25px;
+}
+.forgot{
+    margin: 0px 0px 0px 110px;
+}
+.br{
+    margin-top: 10px;
+    padding: 1px;
+    background-color: grey;
+}

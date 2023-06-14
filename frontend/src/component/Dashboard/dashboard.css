@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.addpop{
+    position: absolute;
+    right: 300px;
+    bottom: 200px;
+    background-color: aliceblue;
+}
+.cancel{
+    margin-left: 20px;
+}
+.add{
+    margin-left: 150px;
+}
+.addbtn{
+    margin-left: 20rem;
+}
